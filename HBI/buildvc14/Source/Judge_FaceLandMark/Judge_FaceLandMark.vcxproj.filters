@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files (x86)\MTES2.0\FMS\HBI\Source\Judge_FaceLandMark\Judge_FaceLandMark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files (x86)\MTES2.0\FMS\HBI\Source\Judge_FaceLandMark\Judge_FaceLandMark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C7FCE7D6-F216-36C1-AC50-3EF7C151E22A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EBCC2372-ECDB-32CA-80E6-E4F057D066CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

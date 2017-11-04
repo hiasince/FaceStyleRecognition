@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{A72E7214-669E-3846-864D-3DA1067F42E0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC", "MFC.vcxproj", "{E7382C35-9B46-3237-9B4B-123D0FD5DA72}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		MinSizeRel|Win32 = MinSizeRel|Win32
+		RelWithDebInfo|Win32 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72E7214-669E-3846-864D-3DA1067F42E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A72E7214-669E-3846-864D-3DA1067F42E0}.Release|Win32.ActiveCfg = Release|Win32
+		{A72E7214-669E-3846-864D-3DA1067F42E0}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{A72E7214-669E-3846-864D-3DA1067F42E0}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.Debug|Win32.Build.0 = Debug|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.Release|Win32.ActiveCfg = Release|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.Release|Win32.Build.0 = Release|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{E7382C35-9B46-3237-9B4B-123D0FD5DA72}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
